@@ -5,8 +5,6 @@ import VueAxios from 'vue-axios'
 
 Vue.use(VueAxios, axios)
 
-// Vue.prototype.HOST = '/api'
-
 Vue.use(Vuex)
 
 const state = {
